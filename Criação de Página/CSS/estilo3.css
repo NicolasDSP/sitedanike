@@ -1,0 +1,153 @@
+body{
+    background-color: white;
+}
+.a1{
+    width: 900px;
+    height: 95px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.a2{
+    width: 900px;
+    height: 10px;
+    background-color:white;
+    margin: auto;
+}
+.b1{
+    width: 100px;
+    height: 73px;
+    background-color: white;
+}
+.b2{
+    width: 223px;
+    height: 90px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif; font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b3{
+    width: 223px;
+    height: 90px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif; font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b4{
+    width: 223px;
+    height: 90px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif; font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a3{
+    width: 900px;
+    height: 258px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.d1{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin-top: 8px;
+}
+.d2{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin-top: 8px;
+}
+.d3{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin-top: 8px;
+}
+.a4{
+    width: 900px;
+    height: 150px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.g1{
+    width: 250px;
+    height: 136px;
+    background-color: white;
+}
+.g2{
+    width: 250px;
+    height: 121px;
+    background-color: white;
+}
+.g3{
+    width: 250px;
+    height: 136px;
+    background-color: white;
+}
+.a5{
+    width: 900px;
+    height: 250px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.z1{
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+}
+.z2{
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+}
+.z3{
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+}
+.a6{
+    width: 900px;
+    height: 150px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.x1{
+    width: 250px;
+    height: 138px;
+    background-color: white;
+}
+.x2{
+    width: 250px;
+    height: 132px;
+    background-color: white;
+}
+.x3{
+    width: 250px;
+    height: 126px;
+    background-color: white;
+}
+a{color: black;}
+a:link{text-decoration: none;}
+a:hover{color: gray;}
